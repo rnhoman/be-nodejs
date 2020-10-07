@@ -1,0 +1,24 @@
+{
+    "name": "coba-nodejs",
+    "version": "1.0.0",
+    "description": "Learning node js",
+    "main": "app.js",
+    "scripts": {
+        "dev1": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rohmannurhaqiqi010395/be-nodejs.git"
+    },
+    "author": "Rohman Nur Haqiqi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rohmannurhaqiqi010395/be-nodejs/issues"
+    },
+    "homepage": "https://github.com/rohmannurhaqiqi010395/be-nodejs#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.3"
+    }
+}
